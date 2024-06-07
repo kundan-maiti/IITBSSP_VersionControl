@@ -6,13 +6,13 @@ Keep a lookout for the time limit
 ANS> 2007
 
 2> Pratham Budget
-ANS> 
+ANS> 1.5 CR
 
 3> How many models of the satellite were made. Name them
 ANS> 2 Pratham and Advitiy
 
 3> Name the current Faculty Advisors of IITBSSP
-ANS> 
+ANS> Aditya Sakrikara
 
 4> We had a collaboration with another University for Pratham. Which country/city was this university in?
 ANS> India
