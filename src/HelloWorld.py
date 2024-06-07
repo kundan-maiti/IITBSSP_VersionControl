@@ -7,9 +7,9 @@ Does random stuff
 """
 import time
 
-print("Welcome to IITBSSP Version Control Session")
-time.sleep(2)
+print("All hail Kundan !")
+time.sleep(1)
 
 while True:
     # Prints universal truth statements
-    print("You suck at version control")
+    print("All hail Kundan !")
